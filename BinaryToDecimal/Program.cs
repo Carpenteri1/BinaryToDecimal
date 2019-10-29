@@ -1,4 +1,9 @@
-﻿using System;
+﻿/*
+ *Author:Niclas Timle
+ *Date: 29-10-2019
+ */
+
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
